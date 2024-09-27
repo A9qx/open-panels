@@ -17,6 +17,7 @@ MKBHD thought launching an app with the following was a good idea:
 •  **Ad-Heavy Experience**: Users were required to watch two ads for each wallpaper download, which only provided access to standard definition images.
 
 •  **Subscription Model**: Access to high-definition wallpapers was locked behind a $50 annual subscription fee.
+
 •  **Unsecured access**: All wallpapers are accessible via a public URL, which enables this script to function and clarifies that this project is not “stealing.”
 
 ### Developers 10000000 - 0 MKBHD
