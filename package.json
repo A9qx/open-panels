@@ -1,0 +1,9 @@
+{
+  "name": "open-panels",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:A9qx/open-panels.git",
+  "author": "A9qx <aviationismylife100@gmail.comls>",
+  "license": "MIT",
+  "dependencies": {}
+}
